@@ -1,0 +1,13 @@
+{
+  "name": "aws-lambda-auther-github",
+  "version": "0.1.0",
+  "author": "Lau, Kamas <kamaslau@dingtalk.com> (https://www.kamaslau.com/)",
+  "license": "MIT",
+  "description": "",
+  "keywords": [],
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
